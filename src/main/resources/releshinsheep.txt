@@ -1,0 +1,2 @@
+   emp     vac       vac    emp
+   o   ->  o
